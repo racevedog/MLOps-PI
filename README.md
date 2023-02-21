@@ -91,6 +91,9 @@ title_id : {xx9999}
 ## Github
 
 https://github.com/racevedog/MLOps-PI
+## Video explicativo
+
+https://app.gemoo.com/video/video-details/comment?codeId=v6VpVLoOlwReJ
 ## Autor
 
 - [@racevedog](https://www.github.com/racevedog)
